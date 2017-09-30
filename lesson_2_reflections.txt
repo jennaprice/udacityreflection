@@ -18,3 +18,10 @@ you can see which branches you are one and which branches exist, know where the 
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 We take separate sets of files that originated from the same head and combined them so that we have the best sets from both files
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+Pros: Faster, easier when you are doing large files
+Cons: Not a logical commit if someone changed the name of a variable it could mess up lots of code
+Manual
+Pros: You have a more intimate knowledge of what was changes
+Cons: Slow more likely for human error.
