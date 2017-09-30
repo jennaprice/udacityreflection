@@ -15,3 +15,6 @@ How would branches help? Lets you test out different versions and different idea
 
 How do the diagrams help you visualize the branch structure?
 you can see which branches you are one and which branches exist, know where the master is and where your work is along the master
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+We take separate sets of files that originated from the same head and combined them so that we have the best sets from both files
